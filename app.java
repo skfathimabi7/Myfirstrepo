@@ -33,3 +33,6 @@ public class Main {
       System.out.println(num + " is not a prime number.");
   }
 }
+
+new code added by dev1 without pull the code
+
