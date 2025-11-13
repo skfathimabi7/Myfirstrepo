@@ -10,7 +10,7 @@ public class Main {
 
   public static void main(String[] args) {
 
-    int num = 27;
+    int num = 17;
     boolean flag = false;
 
     // 0 and 1 are not prime numbers
